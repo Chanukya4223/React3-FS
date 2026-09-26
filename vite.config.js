@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/React3-Fullstack/',
+  base: '/React3-FSCalci/',
   plugins: [react()],
 })
